@@ -1,0 +1,76 @@
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\appsettings.Development.json
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\appsettings.json
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\API.exe
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\API.deps.json
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\API.dll
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\API.pdb
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\Ultra-Launcher\API\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.dll
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\refint\API.dll
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.pdb
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\git\Ultra-Launcher\API\API\obj\Debug\net7.0\ref\API.dll
+C:\git\API\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\git\API\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\API\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\git\API\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\git\API\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\git\API\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\git\API\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\git\API\API\obj\Debug\net7.0\API.dll
+C:\git\API\API\obj\Debug\net7.0\refint\API.dll
+C:\git\API\API\obj\Debug\net7.0\API.pdb
+C:\git\API histoire\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\git\API histoire\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\API histoire\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\git\API histoire\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\git\API histoire\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\git\API histoire\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\git\API histoire\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\git\API histoire\API\obj\Debug\net7.0\API.dll
+C:\git\API histoire\API\obj\Debug\net7.0\refint\API.dll
+C:\git\API histoire\API\obj\Debug\net7.0\API.pdb
+C:\git\API histoire\API\bin\Debug\net7.0\appsettings.Development.json
+C:\git\API histoire\API\bin\Debug\net7.0\appsettings.json
+C:\git\API histoire\API\bin\Debug\net7.0\API.exe
+C:\git\API histoire\API\bin\Debug\net7.0\API.deps.json
+C:\git\API histoire\API\bin\Debug\net7.0\API.runtimeconfig.json
+C:\git\API histoire\API\bin\Debug\net7.0\API.dll
+C:\git\API histoire\API\bin\Debug\net7.0\API.pdb
+C:\git\API histoire\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\git\API histoire\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\git\API histoire\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\API histoire\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\API histoire\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\API histoire\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\git\API histoire\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\git\API histoire\API\obj\Debug\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\git\API histoire\API\obj\Debug\net7.0\staticwebassets\msbuild.build.API.props
+C:\git\API histoire\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\git\API histoire\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\git\API histoire\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\git\API histoire\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
+C:\git\API histoire\API\obj\Debug\net7.0\API.csproj.CopyComplete
+C:\git\API histoire\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\git\API histoire\API\obj\Debug\net7.0\ref\API.dll
